@@ -1,4 +1,4 @@
-# PythonAlgorithm
+# Stack and Queue realization
 
 
 ## Content
